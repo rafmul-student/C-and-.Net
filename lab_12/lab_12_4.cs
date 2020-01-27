@@ -9,12 +9,9 @@ namespace Cwiczenie_4
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Cwiczenie 4");
-
             new Thread (Run).Start();
             Run();
         }
-
         static void Run()
         {
             if (!done)
