@@ -1,4 +1,4 @@
-using System;
+using System; 
 namespace lab_2
 {
     class Program
