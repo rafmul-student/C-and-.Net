@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-namespace Cwiczenie_1_2_3_4
+namespace lab_1_2_3_4
 {
     class Program
     {
