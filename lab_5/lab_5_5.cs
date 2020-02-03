@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 namespace lab_5
-{
+{ 
     class Program
     {
         [DllImport("msvcrt.dll")]
