@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel;
 using System.Runtime.InteropServices;
-namespace Cwiczenie_3
+namespace lab_3
 {
     class DisposeObject : IDisposable
     {
