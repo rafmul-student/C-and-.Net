@@ -1,8 +1,7 @@
 using System;
 using System.Threading;
 using System.Threading.Tasks;
-
-namespace Cwiczenie_3
+namespace lab_3
 {
     class Program
     {
