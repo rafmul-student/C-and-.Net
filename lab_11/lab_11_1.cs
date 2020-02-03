@@ -1,6 +1,5 @@
 using System;
-
-namespace Choinka
+namespace lab_1
 {
     class Program
     {
