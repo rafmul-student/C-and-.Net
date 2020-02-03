@@ -1,7 +1,6 @@
 using System;
 using System.Threading;
-
-namespace Cwiczenie6
+namespace lab_6
 {
     class Program
     {
