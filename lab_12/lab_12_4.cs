@@ -1,7 +1,6 @@
 using System;
 using System.Threading;
-
-namespace Cwiczenie_4
+namespace lab_4
 {
     class ThreadExample
     {
