@@ -1,5 +1,5 @@
 using System;
-namespace Cwiczenie_02
+namespace lab_2
     class Program
     {
     static void Main(string[] args)
